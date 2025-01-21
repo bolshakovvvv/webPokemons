@@ -50,8 +50,8 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/pokemon-card-management.git
-   cd pokemon-card-management
+   git clone https://github.com/bolshakovvvv/webPokemons.git
+   cd webPokemons
    ```
 
 2. Соберите и запустите приложение с помощью Docker Compose:
